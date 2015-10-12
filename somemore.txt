@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+
+This is developer2 working in practice folder...
+
+=======
+This is developer1
+>>>>>>> gh_pages
